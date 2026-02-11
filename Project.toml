@@ -60,3 +60,6 @@ Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [targets]
 test = ["Aqua", "ConstructionBase", "ForwardDiff", "InverseFunctions", "Latexify", "LaTeXStrings", "LinearAlgebra", "NaNMath", "Test", "Random", "REPL", "Printf"]
+
+[sources]
+NestedNumbers = {url = "https://github.com/JuliaMath/NestedNumbers.jl"}
